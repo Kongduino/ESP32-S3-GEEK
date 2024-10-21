@@ -27,3 +27,5 @@ One little nitpick is that the `LCD_1inch14` class uses MP's framebuffer, which 
 	- fc = forecolor
 	- bc = background color
 * `invert()` Inverts the screen
+
+![Demo](Assets/Demo.gif)
